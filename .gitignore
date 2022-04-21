@@ -10,3 +10,6 @@
 project/project/
 project/target/
 target/
+
+# checkpoints
+checkpoint
